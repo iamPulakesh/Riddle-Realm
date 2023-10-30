@@ -1,1 +1,4 @@
 # Riddle-Realm
+Immerse yourself in an immersive and visually stunning Escape Room experience crafted using Unreal Engine 5 and powered by C++. Your objective is to solve a series of environmental challenges, puzzles, and brain-teasing mysteries within a confined space. Players are thrust into intricately designed rooms, where every object and detail holds a clue or a puzzle piece crucial for their escape.
+
+Utilizing the latest advancements in UE5's graphics and physics, the game offers a highly interactive environment. From manipulating objects to deciphering cryptic codes, every action and decision counts as the clock ticks away. With a ticking timer adding urgency, players must collaborate or go solo to escape before time runs out. The combination of stunning visuals, immersive soundscapes, and intricate puzzles creates an enthralling experience, ensuring every minute spent in the Escape Room is filled with tension, excitement, and the thrill of problem-solving.
